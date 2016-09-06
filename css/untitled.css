@@ -1,0 +1,79 @@
+.ylq {
+  /* this is the container of various design elements - i.e. the 2 logo of the branding section */
+  border: 1px solid #e6e6e6;
+  border-radius: 3px;
+  background: #FaFaFa;
+  padding: 2px;
+  height: 80px;
+  margin-bottom: 18px; 
+}
+
+.font-pingfang-daohang {
+  font-size: 36px;
+  color: #494949;
+  font-family: 'PingFang','Montserrat-Regular',-apple-system,Helvetica Neue,Arial,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+}
+
+.font-pingfang-zhengwen {
+  font-size: 30px;
+  color: #494949;
+  font-family: 'PingFang','Montserrat-Regular',-apple-system,Helvetica Neue,Arial,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+}
+
+.font-pingfang-anniu {
+  font-size: 28px;
+  color: #494949;
+  font-family: 'PingFang','Montserrat-Regular',-apple-system,Helvetica Neue,Arial,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+}
+
+.font_area span {
+  font-size: 14px;
+  position: relative;
+  float: right;
+  text-align: right;
+  font-family: 'Montserrat-Light',sans-serif;
+}
+
+.pingpai {
+  background: url("../assets/title/pingpai.svg") no-repeat center center;
+  background-size: 120% 120%;
+  width: 100%;
+  height:100%;
+  position: relative;
+  margin: 0 auto;
+  opacity: 1;
+  cursor: pointer;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+}
+
+.yanse {
+  background: url("../assets/title/yanse.svg") no-repeat center center;
+  background-size: 120% 120%;
+  width: 100%;
+  height:100%;
+  position: relative;
+  margin: 0 auto;
+  opacity: 1;
+  cursor: pointer;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+}
+
+.ziti {
+  background: url("../assets/title/ziti.svg") no-repeat center center;
+  background-size: 120% 120%;
+  width: 100%;
+  height:100%;
+  position: relative;
+  margin: 0 auto;
+  opacity: 1;
+  cursor: pointer;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+}
+
+.btn-lvse {
+  background-color: #42BD56;
+  border: 1px solid #3DAD4F;
+}
