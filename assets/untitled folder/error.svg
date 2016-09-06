@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1500px" height="600px" viewBox="0 0 1500 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="错误弹窗" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <rect id="Rectangle" x="0" y="0" width="750" height="300"></rect>
+            <g id="弹窗" transform="translate(85.000000, 106.000000)">
+                <rect id="bg" fill-opacity="0.8" fill="#494949" x="0" y="0" width="580" height="88" rx="4"></rect>
+                <text id="我是一个错误弹窗提示" font-family=".PingFang-SC-Regular, PingFang SC" font-size="30" font-weight="400" fill="#FFFFFF">
+                    <tspan x="140" y="55">我是一个错误弹窗提示</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-Copy" x="750" y="0" width="750" height="300"></rect>
+            <g id="弹窗" transform="translate(835.000000, 90.000000)">
+                <rect id="bg" fill-opacity="0.8" fill="#494949" x="0" y="0" width="580" height="120" rx="4"></rect>
+                <text id="我是一个错误弹窗提示" font-family=".PingFang-SC-Regular, PingFang SC" font-size="30" font-weight="400" fill="#FFFFFF">
+                    <tspan x="140" y="50">我是一个错误弹窗提示</tspan>
+                    <tspan x="200" y="92">我有两行文本</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-Copy-2" x="750" y="300" width="750" height="300"></rect>
+            <g id="弹窗" transform="translate(835.000000, 406.000000)">
+                <rect id="bg" fill-opacity="0.8" fill="#494949" x="0" y="0" width="580" height="88" rx="4"></rect>
+                <g id="nav_icon_del_white" transform="translate(506.000000, 22.000000)">
+                    <rect x="0" y="0" width="44" height="44"></rect>
+                    <g id="icon" transform="translate(12.000000, 12.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-65" transform="translate(10.000000, 10.000000) rotate(45.000000) translate(-10.000000, -10.000000) " x="8" y="-2" width="4" height="24" rx="2"></rect>
+                        <rect id="Rectangle-65-Copy" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) " x="8" y="-2" width="4" height="24" rx="2"></rect>
+                    </g>
+                </g>
+                <text id="我是一个可关闭弹窗提示" font-family=".PingFang-SC-Regular, PingFang SC" font-size="30" font-weight="400" fill="#FFFFFF">
+                    <tspan x="125" y="55">我是一个可关闭弹窗提示</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-Copy-3" x="0" y="300" width="750" height="300"></rect>
+            <g id="弹窗" transform="translate(85.000000, 390.000000)">
+                <rect id="bg" fill-opacity="0.8" fill="#494949" x="0" y="0" width="580" height="120" rx="4"></rect>
+                <g id="Group" transform="translate(110.000000, 38.000000)">
+                    <image id="Loading_00099" x="0" y="0" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAABGdBTUEAA1teXP8meAAABDNJREFUWAnVmVmoT0Ecx91rye5abrbsIvvO5Ymyx4NyIy9kKa/Kgxcv5FEelCieKKGULCVrCaGsWbt2spTc7Nd2fb46U3Pmnv85M+f/J3716fx+M7/fb+bOmTn/mbll9fX1jf4nKf+fOqu+Nilhh1uTaxQMhkoogzdwG65ALRQvmhJF0pH4dfAQCskzKjZCNyiqvaKCaXwy1ICvPMdxLuRuN3cgjc6ATxAqPwhYCLnaLlNgDulLzCXo4MRqrp6E+6DEvWEyTABbvmBMAvmHSc6/9ABxtmikl0E5JI1cNeVvwZazGIX8k3L8LitYQbJCdePsViN9QYq/yTMNn29O7CyPOBP/+xkzPIO3OY3u8YxTW5ud2P0Bsbk63JIGnliNfkcfGdBoL3w/gpFalErwHrjQX7ohrJAe1iq5hn7VsrPUxzictZzaoY+17Ew1tMMjnYxnHNvHPOU4jXbsVDO0wwOcbCGja0KvGyV6ujmd6rgZ2uFu8fBGdxzbx7yLk/3x7+oTZHxCNz9tTWD0rOLZySnLMrvg8ANM222yAux6E2SXpenNnMpNjp3HbBoSFDolfoYk9/S1p0dmSGiHtU8otZwOSRi6+dEUWgZDQxpJ8a2hbhtoM+QloR32SvonnUIXnbaT62FgiTqlbehaeO2dL+R3HN+tUGrZSULvvUTIlNDB8h5UeI+Gn+Mn3PTGnvm4h3wl5pPQ7aw+c3mw+9YSY5FdkKb7jrCO7BfB3lmtxj6cljylbgp1W6x6XQWMgG9WWbLqOX+qnIn7EruVZ2zS/GxG7CMnp04kSb6xMt8poW+vLXsxPtoFgfpX/Hc5McsdO9n0+Kt0UfLGGg0d00d5xMVGJsF/AGV1YOQDSg9IjfMZYS02+zh/Djv8eN5wvPTFOW4Vt0LPXHxZHdZiW2ollbrDsYsxtzvBS7DTd28Zr2CCeV/R8xXPioyY1FfqxLbAfgi2TMcomCNrhN3R3ccI1DqjUoz5mWB38a1IS5j2Hda81TzrGCXQvlXf4cuRbR7dUfRLJfpAZzCniA/o2ic8Ah2NxBOwpT/GTTCHA/3yDQLXjyIkZfhX2O8J/Vjk24anLgJ1fXoR3oGv6EtwGXSholvM9qA+6DLGljUYiX0rNMJabOfBvsTbil0H86AnlEJekOQg6E2sArUr0ZsYBg1++Qp1eBzOF8AkQP3rMpMWj7qtNnELIluLzbezmmu6ARIaGY3ae5Do3wg6JevuYThov9AXfESLr0GHk0a4Esdb0Cklq+6GD8Ex0MWI7890c3x13TUV5sBEaAxJoi+IjmIPYpUJk3u2Pfst/Sm6FtpYSFwQOcqHE7MBHkCSLKEw1lbMiCr78XxvRd9AXwlmRSfFFFumL89iuARGdDM6BmK5k6aE3kAVVMMN2A118DdE02M+jIcjcAJiUqjDMad/ySj/lzrj05dfznBpZ8sQsD0AAAAASUVORK5CYII="></image>
+                    <text id="一起打球，羽乐无限" font-family=".PingFang-SC-Regular, PingFang SC" font-size="30" font-weight="400" fill="#FFFFFF">
+                        <tspan x="74" y="33">一起打球，羽乐无限</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
