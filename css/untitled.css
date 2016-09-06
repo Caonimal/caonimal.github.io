@@ -1,11 +1,11 @@
 .ylq {
   /* this is the container of various design elements - i.e. the 2 logo of the branding section */
-  border: 1px solid #e6e6e6;
+  /*  border: 1px solid #e6e6e6; */
   border-radius: 3px;
-  background: #FaFaFa;
+  /* background: #FaFaFa; */
   padding: 2px;
   height: 80px;
-  margin-bottom: 18px; 
+  margin-bottom: 12px; 
 }
 
 #ylq-jianbian {
